@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url();
+}
+.container {
+    margin: 100px auto;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+}
+.head{
+    margin: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.block{
+    margin: auto;
+    width: 50%;
+}
+.stars{
+    margin: auto;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+}
+.st {
+    margin: ;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+}
+.goals{
+    display: flex;
+    flex-direction: row;
+}
+.box{
+    margin: auto;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+.card{
+    margin: auto;
+    width: 33.3%;
+    display: flex;
+    flex-direction: column;
+}
+.ava{
+    display: flex;
+    flex-direction: row;
+}
